@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
       
-      <iframe src="https://subbuperugu26.github.io/DeOne7/index.html"></iframe>
+      <iframe src="https://script.google.com/macros/s/AKfycbw_0Dp5geW_xLFqtPg6X3kNDD_Lwo8Ru1f5Z3_QHw9kjRLxBxRPiyZkBzcauZOu-g6VBA/exec"></iframe>
     </div>
   );
 }
